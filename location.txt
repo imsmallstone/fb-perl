@@ -1,0 +1,83 @@
+ 'Wenzhou, China'1
+ 'Surat, Gujarat'1
+ 'Weininghsien, Guizhou, China'1
+ 'Suining'1
+ 'Chongqing, China'1
+ 'Washington, District of Columbia'6
+ 'Philadelphia, Pennsylvania'1
+ 'Yokohama-shi, Kanagawa, Japan'1
+ 'Beijing, China'1
+ 'Chifeng'1
+ 'Aarhus, Denmark'2
+ 'Benxi'1
+ 'Kamakura-shi, Kanagawa, Japan'1
+ 'Jammu'1
+ 'Pittsburgh, Pennsylvania'5
+ 'Tiruchirappalli, India'1
+ 'Xi\'an, China'1
+ 'Taizhou, Zhejiang'1
+ 'Xinzhou, Shanxi'1
+ 'Chennai, Tamil Nadu'1
+ 'Langfang'1
+ 'Tsingtao, Shandong, China'1
+ 'Akola, Maharashtra'1
+ 'Evanston, Illinois'1
+ 'Porto, Portugal'1
+ 'Zhengzhou'1
+ 'Stanford, California'1
+ 'Monasterevin'1
+ 'Silver Spring, Maryland'3
+ 'Frederick, Maryland'1
+ 'Changsha'1
+ "Saarbr\x{fc}cken"1
+ 'Sapporo-shi, Hokkaido, Japan'1
+ 'Atlanta, Georgia'1
+ 'Paris, France'4
+ 'Zhangjiagang Shi, Jiangsu, China'1
+ 'Antofagasta, Chile'1
+ 'Beijing'4
+ 'Tianjin, China'1
+ 'Denver, Colorado'1
+ 'Hong Kong'6
+ 'Zhoushan'1
+ 'Jiaocheng, Shanxi, China'1
+ 'Mitaka, Tokyo, Japan'2
+ 'College Park, Maryland'14
+ 'Qingdao, Shandong'1
+ 'Coimbatore, Tamil Nadu'1
+ 'Cambridge, Cambridgeshire'2
+ 'Greenbelt, Maryland'7
+ 'Dalian, China'1
+ 'Yantai, China'1
+ 'Thane'1
+ 'Mexico City, Mexico'1
+ 'Mianyang'1
+ 'Jinhua'1
+ 'Nanjing, China'1
+ 'Minato-ku, Tokyo, Japan'2
+ 'San Francisco, California'2
+ 'Daegu'1
+ 'Hengyang'1
+ 'Bangkok, Thailand'3
+ 'Guiyang'1
+ 'Zibo'1
+ 'Yizheng'1
+ 'Ann Arbor, Michigan'1
+ 'Jiaxing, China'1
+ 'Seoul, Korea'1
+ 'Vermillion, South Dakota'1
+ 'Siwan, Bihar'1
+ 'Taipei, Taiwan'1
+ 'Bunkyo-ku, Tokyo, Japan'1
+ 'Shanghai, China'1
+ 'Puyang'1
+ 'Weifangshih, Shandong, China'1
+ 'Haitien, Beijing, China'2
+ 'Ankang'1
+ 'New York, New York'1
+ 'Shijiazhuang Shi, Hebei, China'1
+ 'Kingston, Ontario'1
+ 'San Diego, California'1
+ 'Albany, New York'1
+ 'Kunming, Yunnan'1
+ 'Seattle, Washington'3
