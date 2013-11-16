@@ -8,7 +8,7 @@ use strict;
 
 my $fb_app_id ='685856528092684';
 my $fb_app_secret = 'b6cd719c518f494b1967efd4fc65b972';
-#my $token ='CAACEdEose0cBAP1iUkAtoZAlHtMYDZB56MtgTfH2ithW3kQ05PkMncV6fsaDh7xQXstjHOZCaZAklQGvMMOb7GnpCYx4un5tfOUCPEzpTGlvsBn45po84ck4FYdK66YHcIPSopL5XpJinuDnnm3Kdvi0QLVv6bBiWCZAFvfmLF3DcLRS2FohtkeTQuGJVEAOuZCxp5132QUwZDZD';
+my $token ='CAAJvyGq5TgwBAIqc0ceLjZBxWfxsFvTTvcjO07eZCEe1KwCgPFCmfFQtREZA86zWMcKtVz6QPKXpHTZAavfpLtj6aYW1nvpZC5dtClNaejMt85ZAWtZCdHQSLK2ZAnZBa4UZAo0CiAUseMUZCJ8VfIgg5dV4WdBUHqWba1ZCKueOo4ywZBe2UpWJSQcGUD6KRGeuUyn4ZD';
 
 my $fb = Facebook::Graph->new(
 
@@ -16,7 +16,7 @@ my $fb = Facebook::Graph->new(
 
 	secret => $fb_app_secret,
 
-	postback => 'http://google.com',
+	postback => 'http://developers.facebook.com/apps/685856528092684/',
 
 );
 
@@ -31,8 +31,7 @@ my $uri = $fb
 	->uri_as_string;
 
 
-my $q = Plack::Request->new($env);
-$fb->request_access_token($q->query_param('code'));
+$fb ->access_token($token);
 
 my $user = $fb->fetch('me');
 

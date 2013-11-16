@@ -35,7 +35,7 @@
  'Paris, France'4
  'Zhangjiagang Shi, Jiangsu, China'1
  'Antofagasta, Chile'1
- 'Beijing'4
+ 'Beijing'5
  'Tianjin, China'1
  'Denver, Colorado'1
  'Hong Kong'6
